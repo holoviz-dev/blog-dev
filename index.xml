@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>HoloViz Blog</title>
+<link>https://blog.holoviz.org/index.html</link>
+<atom:link href="https://blog.holoviz.org/index.xml" rel="self" type="application/rss+xml"/>
+<description>The HoloViz Blog</description>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Fri, 22 Dec 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Panel AI Chatbot Tips: Memory and Downloadable Conversations</title>
+  <dc:creator>Andrew Huang</dc:creator>
+  <dc:creator>Sophia Yang</dc:creator>
+  <link>https://blog.holoviz.org/posts/ai_chatbot_tips_memory_download/index.html</link>
+  <description><![CDATA[ In this blog post, we’ll explore how to build a simple AI chatbot, enhance it with memory capabilities, and finally, implement a feature to download conversations for further fine-tuning. ]]></description>
+  <category>showcase</category>
+  <category>panel</category>
+  <category>ai</category>
+  <category>llm</category>
+  <category>chatbot</category>
+  <guid>https://blog.holoviz.org/posts/ai_chatbot_tips_memory_download/index.html</guid>
+  <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://blog.holoviz.org/posts/ai_chatbot_tips_memory_download/images/chatbot.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+<item>
+  <title>Build an AI Chatbot to Run Code and Tweak plots</title>
+  <dc:creator>Andrew Huang</dc:creator>
+  <dc:creator>Sophia Yang</dc:creator>
+  <link>https://blog.holoviz.org/posts/tweak-mpl-chat/index.html</link>
+  <description><![CDATA[ Have you wasted hours tweaking a plot for a presentation or academic paper, like searching StackOverflow on how to change the font size of the labels? The future is now; let LLMs improve your plots for you! ]]></description>
+  <category>showcase</category>
+  <category>panel</category>
+  <category>ai</category>
+  <category>llm</category>
+  <category>chatbot</category>
+  <guid>https://blog.holoviz.org/posts/tweak-mpl-chat/index.html</guid>
+  <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://blog.holoviz.org/posts/tweak-mpl-chat/images/chatbot.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+<item>
+  <title>Param 2.0 release</title>
+  <dc:creator>Maxime Liquet</dc:creator>
+  <link>https://blog.holoviz.org/posts/param_release_2.0/index.html</link>
+  <description><![CDATA[ We are very happy to announce the release of <a href="https://param.holoviz.org">Param 2.0</a>, a Python library that lets you write classes whose attributes, a.k.a. <em>Parameters</em>, are <strong>dynamically validated</strong> and whose updates can <strong>trigger actions</strong> you register. This major release includes: ]]></description>
+  <category>release</category>
+  <category>param</category>
+  <guid>https://blog.holoviz.org/posts/param_release_2.0/index.html</guid>
+  <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://blog.holoviz.org/posts/param_release_2.0/images/param_logo.png" medium="image" type="image/png" height="155" width="144"/>
+</item>
+<item>
+  <title>Build a Mixtral Chatbot with Panel</title>
+  <dc:creator>Andrew Huang</dc:creator>
+  <dc:creator>Philipp Rudiger</dc:creator>
+  <dc:creator>Sophia Yang</dc:creator>
+  <link>https://blog.holoviz.org/posts/mixtral/index.html</link>
+  <description><![CDATA[ Mistral AI just announced the Mixtral 8x7B and the Mixtral 8x7B Instruct models. These models have shown really amazing performance, outperforming Llama 2 and GPT 3.5 in many benchmarks. They’ve quickly became the most popular open weights models in the AI world. In this blog post, we will walk you through how to build AI chatbots with the Mixtral 8x7B Instruct model using the Panel chat interface. We will cover three methods: ]]></description>
+  <category>showcase</category>
+  <category>panel</category>
+  <category>ai</category>
+  <category>llm</category>
+  <category>chatbot</category>
+  <guid>https://blog.holoviz.org/posts/mixtral/index.html</guid>
+  <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://blog.holoviz.org/posts/mixtral/images/chatbot.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+<item>
+  <title>Build a RAG chatbot to answer questions about Python libraries</title>
+  <dc:creator>Andrew Huang</dc:creator>
+  <dc:creator>Sophia Yang</dc:creator>
+  <link>https://blog.holoviz.org/posts/fleet_ai/index.html</link>
+  <description><![CDATA[ Interested in asking questions about Python’s latest and greatest libraries? This is the chatbot for you! Fleet Context offers 4M+ high-quality custom embeddings of the top 1000+ Python libraries, while Panel can provide a Chat Interface UI to build a Retrieval-Augmented Generation (RAG) chatbot with Fleet Context. ]]></description>
+  <category>showcase</category>
+  <category>panel</category>
+  <guid>https://blog.holoviz.org/posts/fleet_ai/index.html</guid>
+  <pubDate>Thu, 07 Dec 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://blog.holoviz.org/posts/fleet_ai/images/chatbot.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+<item>
+  <title>Reviving the blog with Quarto</title>
+  <dc:creator>Maxime Liquet</dc:creator>
+  <link>https://blog.holoviz.org/posts/quarto_migration/index.html</link>
+  <description><![CDATA[ Following the tradition, we have decided that our first post after migrating to <a href="https://quarto.org/">Quarto</a> would be about the migration itself! ]]></description>
+  <category>announcement</category>
+  <guid>https://blog.holoviz.org/posts/quarto_migration/index.html</guid>
+  <pubDate>Sun, 19 Nov 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://blog.holoviz.org/posts/quarto_migration/images/new_site.png" medium="image" type="image/png" height="119" width="144"/>
+</item>
+<item>
+  <title>Panel 1.3.0 Release</title>
+  <dc:creator>Philipp Rudiger</dc:creator>
+  <link>https://blog.holoviz.org/posts/panel_release_1.3/index.html</link>
+  <description><![CDATA[ <img src="https://blog.holoviz.org/posts/panel_release_1.3/images/collage_1.3.png" width="100%"> ]]></description>
+  <category>release</category>
+  <category>panel</category>
+  <guid>https://blog.holoviz.org/posts/panel_release_1.3/index.html</guid>
+  <pubDate>Tue, 24 Oct 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://blog.holoviz.org/posts/panel_release_1.3/images/collage_1.3.png" medium="image" type="image/png" height="48" width="144"/>
+</item>
+<item>
+  <title>Building custom Panel widgets using ReactiveHTML</title>
+  <dc:creator>Andrew Huang</dc:creator>
+  <dc:creator>Sophia Yang</dc:creator>
+  <link>https://blog.holoviz.org/posts/reactivehtml/index.html</link>
+  <description><![CDATA[ No library can cover all the specialized widgets a user may want… but a good one makes it easy for the user to create their own specialized widget that can be used alongside the library! ]]></description>
+  <category>showcase</category>
+  <category>panel</category>
+  <guid>https://blog.holoviz.org/posts/reactivehtml/index.html</guid>
+  <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://blog.holoviz.org/posts/reactivehtml/images/ReactiveHTML10.gif" medium="image" type="image/gif"/>
+</item>
+<item>
+  <title>HoloViz Survey Results</title>
+  <dc:creator>Demetris Roumis</dc:creator>
+  <link>https://blog.holoviz.org/posts/survey_2022/index.html</link>
+  <description><![CDATA[ Welcome! <a href="https://holoviz.org/">HoloViz</a> offers a suite of open-source tools for comprehensive data visualization in a web browser, including high-level interfaces for quick construction and precise control to facilitate both exploratory analysis and complex dashboard building. ]]></description>
+  <category>survey</category>
+  <guid>https://blog.holoviz.org/posts/survey_2022/index.html</guid>
+  <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://blog.holoviz.org/posts/survey_2022/images/first-most-sankey.png" medium="image" type="image/png" height="69" width="144"/>
+</item>
+<item>
+  <title>Building an interactive ML dashboard in Panel</title>
+  <dc:creator>Andrew Huang</dc:creator>
+  <dc:creator>Sophia Yang</dc:creator>
+  <dc:creator>Philipp Rudiger</dc:creator>
+  <link>https://blog.holoviz.org/posts/hugging_face_template/index.html</link>
+  <description><![CDATA[ HoloViz Panel is a versatile Python library that empowers developers and data scientists to build interactive visualizations with ease. Whether you’re working on machine learning projects, developing web applications, or designing data dashboards, Panel provides a powerful set of tools and features to enhance your data exploration and presentation capabilities. In this blog post, we will delve into the exciting features of HoloViz Panel, explore how it can revolutionize your data visualization workflows, and demonstrate how you can make an app like this using about 100 lines of code. ]]></description>
+  <category>showcase</category>
+  <category>panel</category>
+  <guid>https://blog.holoviz.org/posts/hugging_face_template/index.html</guid>
+  <pubDate>Tue, 06 Jun 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://blog.holoviz.org/posts/hugging_face_template/images/hugging_face_template.gif" medium="image" type="image/gif"/>
+</item>
+</channel>
+</rss>
